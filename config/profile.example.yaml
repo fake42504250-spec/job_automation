@@ -1,0 +1,45 @@
+name: "Your Name"
+college: "Your College"
+degree: "B.Tech in Computer Science and Engineering"
+graduation_year: 2027
+availability: "six-month internship"
+start_date: "January 2027"
+location_preferences:
+  - India
+  - Remote
+role_tracks:
+  backend:
+    titles:
+      - software engineer intern
+      - backend intern
+      - sde intern
+      - full stack intern
+    skills:
+      - Python
+      - Java
+      - FastAPI
+      - Node.js
+      - React
+      - SQL
+      - Docker
+    proof: "Built a production-style full-stack application with authenticated REST APIs."
+  genai:
+    titles:
+      - genai intern
+      - machine learning intern
+      - ai engineer intern
+      - llm intern
+    skills:
+      - RAG
+      - LangChain
+      - LangGraph
+      - embeddings
+      - vector databases
+      - Python
+    proof: "Built and evaluated a retrieval-augmented generation pipeline."
+achievements:
+  - "Solved 800+ data-structure and algorithm problems."
+resume_url: "https://replace-with-public-resume-link"
+github_url: "https://github.com/replace-me"
+portfolio_url: ""
+
